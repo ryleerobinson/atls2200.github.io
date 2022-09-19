@@ -1,0 +1,11 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+
+#box {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
