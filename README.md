@@ -1,5 +1,7 @@
 # atls2200.github.io
 
+This is my repo for ATLS2200.
+
 ## Projects
 
 - HTML
@@ -23,7 +25,6 @@
 - ICA13
 - ICA14
 - ICA15
-
 
 ## Weekly Assignments
 
