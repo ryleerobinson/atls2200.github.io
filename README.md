@@ -4,7 +4,7 @@ This is my repo for ATLS2200.
 
 ## Projects
 
-- HTML
+- HTML ()[]
 - CSS
 - JS
 
